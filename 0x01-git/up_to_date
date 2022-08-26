@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 git pull
+=======
+$git add up_to_date
+$git pull
+>>>>>>> eb9fea119c5d02980f5d41f14fd8e00ebf723931
